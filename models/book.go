@@ -1,10 +1,4 @@
-// models/book.go
-
 package models
-
-// import (
-//   "github.com/jinzhu/gorm"
-// )
 
 type Book struct {
   ID     uint   `json:"id" gorm:"primary_key"`

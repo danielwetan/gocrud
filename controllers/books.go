@@ -1,5 +1,3 @@
-// controllers/books.go
-
 package controllers
 
 import (
